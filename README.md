@@ -3,7 +3,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 <br>
-<img src="./bubu.gif" width="250" alt="Panda Animation" />
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" /> 
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
+      <br>
+      <img src="./bubu.gif" width="220" style="border-radius: 20px; border: 5px double #ff69b4; padding: 10px;" />
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
@@ -34,7 +50,7 @@
 
 ---
 
-### 📊 මගේ GitHub තොරතුරු (GitHub Stats)
+### 📊 GitHub Stats & Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
