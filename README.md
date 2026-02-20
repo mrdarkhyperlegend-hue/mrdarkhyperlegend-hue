@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Suneth+Karunarathna;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3Zndndm9reXp6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp8asX9A6QG4E9vGkS/giphy.gif" width="200px" />
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
 
 ---
 
-### 💫 මා ගැන කෙටියෙන් (About Me)
+### 💫 මා ගැන (About Me)
 **නවීන තාක්ෂණය සමඟ අලුත් දේවල් නිර්මාණය කිරීමට කැමති උද්‍යෝගිමත් මෘදුකාංග සංවර්ධකයෙක්මි.**
+
+🌐 **මගේ වෙබ් පිටුවට පිවිසෙන්න:** [https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/](https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/)
 
 ---
 
@@ -27,19 +31,13 @@
 
 ---
 
-### 📊 මගේ GitHub තොරතුරු (GitHub Stats)
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&show_icons=true&theme=tokyonight&hide_border=true" alt="StatsCard" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&show_icons=true&theme=tokyonight&hide_border=true" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarkhyperlegend-hue&layout=compact&theme=tokyonight&hide_border=true" alt="TopLangs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdarkhyperlegend-hue&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🔥 මගේ ක්‍රියාකාරීත්වය (GitHub Activity)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrdarkhyperlegend-hue&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -47,7 +45,7 @@
 
 <p align="center">
 <a href="https://wa.me/94770378874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="sunethkarunarathna5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
