@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Suneth+Karunarathna;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
 
