@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="100" />
+<img src="https://image2url.com/r2/default/images/1771580690931-37609f46-56e7-4c9f-a4ef-6710e9bef905.gif" width="100" />
 <img src="https://image2url.com/r2/default/images/1771580690931-37609f46-56e7-4c9f-a4ef-6710e9bef905.gif" width="150" />
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
