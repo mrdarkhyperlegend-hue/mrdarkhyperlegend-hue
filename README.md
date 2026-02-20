@@ -30,7 +30,7 @@
 **නවීන තාක්ෂණය සමඟ අලුත් දේවල් නිර්මාණය කිරීමට කැමති උද්‍යෝගිමත් මෘදුකාංග සංවර්ධකයෙක්මි.**
 
 🌐 **මගේ වෙබ් පිටුවට පිවිසෙන්න:**
-[https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/](https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/)
+https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/
 
 ---
 
