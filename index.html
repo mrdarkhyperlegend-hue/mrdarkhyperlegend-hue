@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me | Dark Hyper</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: #0f172a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Liquid Animation Background */
+        .liquid-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #0f172a;
+            z-index: -1;
+        }
+
+        .liquid-bg::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: rgba(0, 255, 136, 0.1);
+            border-radius: 40%;
+            animation: liquid 15s infinite linear;
+        }
+
+        @keyframes liquid {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 50px;
+            border-radius: 30px;
+            text-align: center;
+            max-width: 500px;
+            width: 90%;
+            box-shadow: 0 25px 45px rgba(0,0,0,0.2);
+            position: relative;
+            z-index: 1;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid #00ff88;
+            padding: 5px;
+            margin-bottom: 20px;
+            object-fit: cover;
+        }
+
+        h1 {
+            color: #00ff88;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #cbd5e1;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .contact-btn {
+            display: inline-flex;
+            align-items: center;
+            background: #00ff88;
+            color: #0f172a;
+            padding: 12px 25px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+            gap: 10px;
+        }
+
+        .contact-btn:hover {
+            box-shadow: 0 0 20px #00ff88;
+            transform: translateY(-3px);
+        }
+
+        /* Floating Animation for card */
+        .glass-card {
+            animation: float 4s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="liquid-bg"></div>
+
+    <div class="glass-card">
+        <img src="https://github.com/mrdarkhyperlegend-hue.png" alt="Profile" class="profile-img">
+        <h1>D.S.S. KARUNARATHNA</h1>
+        <p>Full-Stack Developer | AI & Bot Expert<br>
+        නවීන තාක්ෂණය සමඟ අලුත් දේවල් නිර්මාණය කරන උද්‍යෝගිමත් මෘදුකාංග සංවර්ධකයෙක්මි.</p>
+        
+        <a href="https://wa.me/94770378874" class="contact-btn">
+            <span>WhatsApp මගින් සම්බන්ධ වන්න</span>
+            <strong>+94 77 037 8874</strong>
+        </a>
+    </div>
+
+</body>
+</html>
