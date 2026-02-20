@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### 🛠️ තාක්ෂණික දැනුම (Tech Stack)
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github,vscode,git,mongodb,express" />
 </p>
 
@@ -29,16 +29,11 @@
 
 ### 📊 මගේ GitHub තොරතුරු (GitHub Stats)
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarkhyperlegend-hue&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&show_icons=true&theme=tokyonight&hide_border=true" alt="StatsCard" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarkhyperlegend-hue&layout=compact&theme=tokyonight&hide_border=true" alt="TopLangs" />
+</p>
 
 ---
 
@@ -51,8 +46,8 @@
 ### 📫 මා සම්බන්ධ කරගන්න (Contact Me)
 
 <p align="center">
-<a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/94770378874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="sunethkarunarathna5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
