@@ -36,7 +36,7 @@ https://mrdarkhyperlegend-hue.github.io/mrdarkhyperlegend-hue/
 
 ### 🚀 මගේ විශේෂතා (My Expertise)
 
-* **🤖 AI & Chatbots:** ChatGPT සහ Node.js භාවිතයෙන් උසස් WhatsApp Bot පද්ධති නිර්මාණය.
+* **🤖 AI & Chatbots:** Java Script සහ Node.js භාවිතයෙන් උසස් WhatsApp Bot පද්ධති නිර්මාණය.
 * **💻 Web Development:** නවීන පන්නයේ අලංකාර සහ වේගවත් වෙබ් අඩවි නිර්මාණය.
 * **⚙️ Automation:** දෛනික වැඩ කටයුතු පහසු කරන ස්වයංක්‍රීය මෙවලම් නිෂ්පාදනය.
 
