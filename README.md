@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=ආයුබෝවන්!+මම+Dark+Hyper;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Hey👋+මම+Suneth+Karunarathna;I'm+a+Full+Stack+Developer;AI+and+Bot+Expert;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 <br>
 
