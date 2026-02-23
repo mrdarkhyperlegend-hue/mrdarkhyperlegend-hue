@@ -11,7 +11,7 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
       <br>
-      <img src="./mm.mp4" width="220" style="border-radius: 20px; border: 5px double #ff69b4; padding: 10px;" />
+      <img src="./bubu.gif" width="220" style="border-radius: 20px; border: 5px double #ff69b4; padding: 10px;" />
       <br>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
