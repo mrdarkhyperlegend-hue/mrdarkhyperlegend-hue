@@ -24,7 +24,7 @@
 <br>
 
 <img
-    src = 'https://user-images.githubusercontent.com/u/256319571?s=400&u=4c56825bfe8e45b285b60723361c306b463526c5&v=4'
+    src = 'https://avatars.githubusercontent.com/u/256319571?s=400&u=4c56825bfe8e45b285b60723361c306b463526c5&v=4'
     width = 800
 />
 
