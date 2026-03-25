@@ -4,21 +4,8 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" /> 
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
-      <br>
-      <img src="./ggg.gif" width="220" style="border-radius: 20px; border: 5px double #ff69b4; padding: 10px;" />
-      <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flower%20Playing%20Cards.png" width="30" />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="30" />
-    </td>
-  </tr>
-</table>
+https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov
+
 
 <br>
 
