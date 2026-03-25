@@ -4,9 +4,7 @@
 
 <br>
 
-(https://avatars.githubusercontent.com/u/256319571?s=400&u=4c56825bfe8e45b285b60723361c306b463526c5&v=4?raw=true)]([https://u8views.com/github.com/mrdarkhyperlegend-hue)
-
-
+(https://data-card-for-spotify.herokuapp.com)
 <br>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF88&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=50" width="100%" />
