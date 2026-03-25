@@ -4,7 +4,7 @@
 
 <br>
 
-https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov
+(https://avatars.githubusercontent.com/u/256319571?s=400&u=4c56825bfe8e45b285b60723361c306b463526c5&v=4?raw=true)]([https://u8views.com/github.com/mrdarkhyperlegend-hue)
 
 
 <br>
