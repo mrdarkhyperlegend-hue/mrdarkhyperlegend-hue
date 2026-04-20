@@ -2,15 +2,15 @@
 
 <div align="center">
 
-### 🚀 JavaScript Developer | Web Enthusiast | WhatsApp Bot Creator
+### ✨ JavaScript Developer | WhatsApp Bot Creator | Web Scraping Expert
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=👋+Welcome+to+my+GitHub!;💻+JavaScript+Developer;🤖+Building+Amazing+Bots;🎬+Creating+Cool+Projects;⚡+Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=⭐+Welcome+to+my+Profile!;💛+JavaScript+Developer;🤖+Building+Amazing+Bots;🎬+Creating+Cool+Projects;✨+Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🏆 About Me
 
 ```javascript
 const suneth = {
@@ -20,6 +20,7 @@ const suneth = {
   currentFocus: "WhatsApp Bot Development & Web Scraping",
   languages: ["JavaScript", "Node.js", "HTML/CSS"],
   passion: "Building automation tools & bots",
+  speciality: "WhatsApp Bot Automation",
   funFact: "I create bots that make life easier! 🤖"
 };
 ```
@@ -32,85 +33,101 @@ const suneth = {
 
 ### Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FDB813?style=for-the-badge&logo=node.js&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=000000)
+![JSON](https://img.shields.io/badge/JSON-FDB813?style=for-the-badge&logo=json&logoColor=000000)
 
 ### Libraries & Frameworks
 
-![Baileys](https://img.shields.io/badge/Baileys-25C161?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Cheerio](https://img.shields.io/badge/Cheerio-FFCC00?style=for-the-badge&logo=cheerio&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000)
+![Axios](https://img.shields.io/badge/Axios-FDB813?style=for-the-badge&logo=axios&logoColor=000000)
+![Cheerio](https://img.shields.io/badge/Cheerio-FFD700?style=for-the-badge&logo=cheerio&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-FDB813?style=for-the-badge&logo=express&logoColor=000000)
 
 ### Tools & Platforms
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-FDB813?style=for-the-badge&logo=git&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-FDB813?style=for-the-badge&logo=whatsapp&logoColor=000000)
 
 </div>
 
 ---
 
-## 🎬 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🌟 CineSubz WhatsApp Movie Downloader Bot
+### 👑 CineSubz WhatsApp Movie Downloader Bot
 
 > A powerful WhatsApp bot for searching and downloading movies with multiple quality options!
 
-**Features:** 🔍 Movie Search | 📥 Direct Downloads | 💾 Multiple Qualities | 👥 Group Support
+| Feature | Details |
+|---------|---------|
+| 🔍 **Search** | Real-time movie search |
+| 📥 **Download** | Direct download links |
+| 💾 **Quality Options** | 480p, 720p, 1080p |
+| 👥 **Group Support** | Works in group chats |
+| ⚡ **Speed** | Lightning-fast results |
+| 🌐 **CineSubz** | Scrapes latest movies |
 
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/mrdarkhyperlegend-hue/movie-Dl)
-
----
+[![GitHub](https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mrdarkhyperlegend-hue/movie-Dl)
 
 </div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&theme=radical&show_icons=true&include_all_commits=true&count_private=true&custom_title=Suneth's%20GitHub%20Stats)
+### 💛 My Contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarkhyperlegend-hue&theme=radical&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdarkhyperlegend-hue&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&custom_title=Suneth's%20Statistics&title_color=FFD700&icon_color=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarkhyperlegend-hue&theme=dracula&layout=compact&langs_count=8&title_color=FFD700)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Graph Animation
 
 <div align="center">
 
-<!-- Snake animation showcase -->
 ![snake gif](https://github.com/mrdarkhyperlegend-hue/mrdarkhyperlegend-hue/blob/output/github-contribution-grid-snake.svg)
 
+#### Your Contributions Over Time 🌊
+
 </div>
 
 ---
 
-## 📈 Activity & Streaks
+## 📈 GitHub Streaks & Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrdarkhyperlegend-hue&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrdarkhyperlegend-hue&theme=nightowl&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700)
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus
 
-- 🤖 **WhatsApp Bot Development**: Creating intelligent bots for automation
-- 🎬 **Web Scraping**: Building tools to extract and manage web data
-- 📱 **Bot Improvements**: Adding new features and optimizations
-- 🌐 **JavaScript Projects**: Continuous learning and new experiments
+<div align="center">
+
+```
+🤖 WhatsApp Bot Development
+🎬 Advanced Web Scraping
+📱 Bot Feature Enhancements
+🌐 JavaScript Optimization
+```
+
+</div>
 
 ---
 
@@ -118,37 +135,54 @@ const suneth = {
 
 ```
 📦 movie-Dl
-   └── CineSubz WhatsApp Movie Downloader Bot
-       ├── Real-time movie search
-       ├── Multiple quality downloads
-       ├── WhatsApp interface
-       └── Web scraping automation
+   ├── ✨ CineSubz WhatsApp Movie Downloader Bot
+   │   ├── 🔍 Real-time movie search
+   │   ├── 📥 Multiple quality downloads
+   │   ├── 💬 WhatsApp interface
+   │   ├── 🤖 Baileys integration
+   │   ├── 🕷️ Web scraping automation
+   │   └── ⚡ Fast performance
+   │
+   └── 📚 Documentation
+       ├── Setup guide
+       ├── Usage instructions
+       ├── Troubleshooting
+       └── Advanced features
 ```
 
 ---
 
-## 💡 Key Accomplishments
-
-- ✅ Built automated WhatsApp bot system for movie downloads
-- ✅ Implemented advanced web scraping with Cheerio
-- ✅ Created seamless user experience through WhatsApp interface
-- ✅ Developed secure authentication with Baileys
-- ✅ Optimized performance for fast results
-
----
-
-## 🌟 Skills Highlights
+## 💎 Key Accomplishments
 
 <div align="center">
 
-| Skill | Level | Experience |
-|-------|-------|------------|
-| 🟢 JavaScript | Expert | 3+ years |
-| 🟢 Node.js | Advanced | 2+ years |
-| 🟢 Web Scraping | Advanced | 1+ year |
-| 🟢 Bot Development | Advanced | 1+ year |
-| 🟡 HTML/CSS | Intermediate | 2+ years |
-| 🟡 Git/GitHub | Intermediate | 2+ years |
+| Achievement | Status |
+|-------------|--------|
+| ✅ WhatsApp Bot System | Complete |
+| ✅ Movie Scraping Engine | Complete |
+| ✅ Multi-Quality Support | Complete |
+| ✅ User Authentication | Complete |
+| ✅ Error Handling | Complete |
+| 🔄 Feature Expansion | In Progress |
+
+</div>
+
+---
+
+## 🏅 Skills & Expertise
+
+<div align="center">
+
+### Experience Levels
+
+| Skill | Level | Years |
+|-------|-------|-------|
+| 💛 JavaScript | ★★★★★ Expert | 3+ |
+| 💛 Node.js | ★★★★☆ Advanced | 2+ |
+| 💛 Web Scraping | ★★★★☆ Advanced | 1+ |
+| 💛 Bot Development | ★★★★☆ Advanced | 1+ |
+| 💛 HTML/CSS | ★★★☆☆ Intermediate | 2+ |
+| 💛 Git/GitHub | ★★★☆☆ Intermediate | 2+ |
 
 </div>
 
@@ -158,43 +192,94 @@ const suneth = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrdarkhyperlegend-hue)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mrdarkhyperlegend-hue)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-FDB813?style=for-the-badge&logo=whatsapp&logoColor=000000)](#)
+[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FDB813?style=for-the-badge&logo=linkedin&logoColor=000000)](#)
 
-### 💬 Let's Chat!
+### 💬 Let's Collaborate!
 
-Feel free to reach out if you want to:
-- 🤝 Collaborate on projects
-- 💡 Discuss ideas
-- 🐛 Report bugs or suggest improvements
-- 📚 Share knowledge
+I'm open to:
+- 🤝 **Collaboration** on exciting projects
+- 💡 **Discussing ideas** and solutions
+- 🐛 **Feedback** on my work
+- 📚 **Knowledge sharing** with the community
 
 </div>
 
 ---
 
-## 🎮 Fun Facts About Me
+## 🎮 Interesting Facts
 
-- 🎬 Movie enthusiast → Built a bot for downloading movies!
-- 🤖 Love automation → Constantly building bots
-- 💻 Code lover → JavaScript is my superpower
-- 🌙 Night owl → Best coding happens at night
-- 🚀 Always learning → New tech every day
-- ☕ Coffee-powered → Can't code without coffee
+<div align="center">
+
+| Interest | Detail |
+|----------|--------|
+| 🎬 | Movie enthusiast → Built a movie downloader bot! |
+| 🤖 | Love automation → Always building bots & scripts |
+| 💻 | Code lover → JavaScript is my superpower |
+| 🌙 | Night owl → Best coding happens at midnight |
+| 🚀 | Tech enthusiast → Learning something new daily |
+| ☕ | Coffee-powered → Can't code without coffee! |
+
+</div>
+
+---
+
+## 📚 Learning & Development
+
+<div align="center">
+
+```
+Currently Learning:
+├── Advanced Web Scraping Techniques
+├── Web Socket Real-time Communication
+├── Database Optimization
+├── Cloud Deployment Solutions
+└── Advanced JavaScript Patterns
+```
+
+</div>
 
 ---
 
 ## 💰 Support My Work
 
-If you find my projects useful:
+<div align="center">
+
+If you find my projects helpful:
+
+⭐ **Star my repositories** - Show your support
+🔗 **Share my projects** - Spread the word
+📢 **Give feedback** - Help me improve
+💬 **Collaborate** - Let's build together
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/)
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- 🎯 Expand bot features and capabilities
+- 🎯 Contribute more to open-source
+- 🎯 Build innovative automation solutions
+- 🎯 Master advanced JavaScript patterns
+- 🎯 Create educational bot tutorials
+
+---
+
+## 📖 Latest Blog Posts
 
 <div align="center">
 
-⭐ **Star my repositories**
-🔗 **Share my projects**
-📢 **Spread the word**
-💬 **Give feedback**
+Coming Soon! 📝
+
+Check back for tutorials on:
+- WhatsApp Bot Development
+- Web Scraping Best Practices
+- JavaScript Automation Tips
 
 </div>
 
@@ -202,14 +287,31 @@ If you find my projects useful:
 
 <div align="center">
 
-### 🎉 Thanks for Visiting!
+**═══════════════════════════════════**
+
+### 🌟 Thanks for Visiting My Profile! 🌟
 
 **Let's create something amazing together! 🚀**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mrdarkhyperlegend-hue&color=blueviolet&style=flat-square)
+**═══════════════════════════════════**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mrdarkhyperlegend-hue&color=gold&style=flat-square)
 
 ---
 
-*Last Updated: 2026* | Made with ❤️ by Suneth Karunarathna
+### 📅 Profile Stats
+
+- 👀 Profile Views: See above ☝️
+- 🌟 Total Stars: Growing daily!
+- 📚 Total Repositories: Check my profile
+- 🤝 Open to Collaborations: YES! ✅
+
+---
+
+*Last Updated: April 2026* | 
+*Made with 💛 Golden Theme* | 
+*By Suneth Karunarathna*
+
+### Keep Coding, Keep Growing! 🚀✨
 
 </div>
