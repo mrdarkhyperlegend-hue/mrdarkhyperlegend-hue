@@ -55,30 +55,6 @@ const suneth = {
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 👑 CineSubz WhatsApp Movie Downloader Bot
-
-> A powerful WhatsApp bot for searching and downloading movies with multiple quality options!
-
-| Feature | Details |
-|---------|---------|
-| 🔍 **Search** | Real-time movie search |
-| 📥 **Download** | Direct download links |
-| 💾 **Quality Options** | 480p, 720p, 1080p |
-| 👥 **Group Support** | Works in group chats |
-| ⚡ **Speed** | Lightning-fast results |
-| 🌐 **CineSubz** | Scrapes latest movies |
-
-[![GitHub](https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mrdarkhyperlegend-hue/movie-Dl)
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -128,46 +104,6 @@ const suneth = {
 ```
 
 </div>
-
----
-
-## 🚀 Latest Projects
-
-```
-📦 movie-Dl
-   ├── ✨ CineSubz WhatsApp Movie Downloader Bot
-   │   ├── 🔍 Real-time movie search
-   │   ├── 📥 Multiple quality downloads
-   │   ├── 💬 WhatsApp interface
-   │   ├── 🤖 Baileys integration
-   │   ├── 🕷️ Web scraping automation
-   │   └── ⚡ Fast performance
-   │
-   └── 📚 Documentation
-       ├── Setup guide
-       ├── Usage instructions
-       ├── Troubleshooting
-       └── Advanced features
-```
-
----
-
-## 💎 Key Accomplishments
-
-<div align="center">
-
-| Achievement | Status |
-|-------------|--------|
-| ✅ WhatsApp Bot System | Complete |
-| ✅ Movie Scraping Engine | Complete |
-| ✅ Multi-Quality Support | Complete |
-| ✅ User Authentication | Complete |
-| ✅ Error Handling | Complete |
-| 🔄 Feature Expansion | In Progress |
-
-</div>
-
----
 
 ## 🏅 Skills & Expertise
 
